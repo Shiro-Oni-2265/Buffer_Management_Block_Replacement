@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Dataset
+data/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# Output
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
